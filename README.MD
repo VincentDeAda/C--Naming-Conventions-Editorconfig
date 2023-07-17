@@ -1,0 +1,1 @@
+Editorconfig File for C# Naming Conventions. 
