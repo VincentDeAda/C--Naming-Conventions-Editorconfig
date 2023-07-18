@@ -55,7 +55,7 @@ dotnet_naming_symbols.method.applicable_kinds = method
 dotnet_naming_symbols.method.applicable_accessibilities = public
 dotnet_naming_symbols.method.required_modifiers = 
 
-dotnet_naming_symbols.method_parameter.applicable_kinds = parameter, type_parameter
+dotnet_naming_symbols.method_parameter.applicable_kinds = parameter
 dotnet_naming_symbols.method_parameter.applicable_accessibilities = *
 dotnet_naming_symbols.method_parameter.required_modifiers = 
 
